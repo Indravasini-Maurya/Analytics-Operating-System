@@ -2,7 +2,7 @@
 
 ## Project Charter — Version 0.7
 
-**Status:** Candidate for Approval
+**Status:** Approved
 **Version:** 0.7
 **Project:** Analytics Operating System (AOS)
 
